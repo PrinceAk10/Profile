@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshay Kullu</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa08xUFhNaVFtenB3bjlKOWFRMWd6YmZ0eHhNd3xBQ3Jtc0ttZW1yZXRPelBnQWMwWThiYmRnbE9CdUlNUkR6MGxFQ2MwZ3VsbW1Sal9zOWRRVkRmNG1Qc3Fhc2FKaDd4OThVVks5N0Y5MXhOcjY3OGZXQlhCQmJITllHcENWRnZVUGdNdEtKZmRiMHc4Tk1tUEY3VQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princeak10&label=Profile%20views&color=0e75b6&style=flat" alt="princeak10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeak10" alt="princeak10" /></a> </p>
